@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Brains4It.Elastic.ElasticFeeder.DataReader</AssemblyName>
+    <RootNamespace>Brains4It.Elastic.ElasticFeeder.DataReader</RootNamespace>
+  </PropertyGroup>
+
+</Project>
